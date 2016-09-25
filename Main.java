@@ -5,5 +5,6 @@ class Main
 		System.out.println("Hello World!");
 		System.out.println("Hi");
 		System.out.println("Bye");
+		System.out.println("Hi from GitHub");
 	}
 }
